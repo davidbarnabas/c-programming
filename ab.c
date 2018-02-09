@@ -6,8 +6,11 @@ try:
 			d=d+1
 		else:
 			c=c+1
+				
 	print("number of words :"+str(c))
+				
 	print('number of integers:'+str(d))
+				
 except:
 	print('invalid')
 	
